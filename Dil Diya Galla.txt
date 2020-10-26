@@ -1,0 +1,123 @@
+Start:
+Kacchi Dorio, Dorio, Dorio Se कच्ची डोरियों, डोरियों, डोरियों से
+
+RG M(T)M(T)M(T)G  PPP DP M(T)M(T) GRG
+
+Mainu Tu Bandh Le मैनु तू बांध ले
+
+M(T)GRN.  RGR
+
+Pakki Yario Yario Yario Me पक्की यारियों यारियों यारियों में
+
+RG M(T) M(T)M(T)G  PPP DP M(T)M(T) GRG
+
+Honde Na Fasale होंदे ना फ़ासले
+
+M(T)GRN.  RGR
+
+Ye Narajai Kagaji Saari Teri ये नाराज़गी काग़ज़ी सारी तेरी
+
+M(T)P NND R'(K)R'(K)N DPPDM(T)
+
+Mere Sonheya Sun Le Meri मेरे सोह्णेया सुन ले मेरी
+
+M(T)P NND  R'(K)R'(K) N DPM(T)G
+
+Dil Diya Galla दिल दियां गल्लां
+
+M(T)PGM(T) PD NDPM(T) 
+
+Karange Naal Naal Bah Ke करांगे नाल नाल बह के
+
+M(T)M(T)P R'(K)N NNN R'(K)NDP 
+
+Ankh Naal Ankh Nu Mila Ke अंख नाल अंख नु मिला के
+
+R'(K)R'(K)R'(K)P PPDN DNDND
+
+Dil Diya Galla Hay दिल दियां गल्लां हाय
+
+M(T)PGM(T) PD NDPM(T) GR
+
+Krange Roj ROj Bah Ke करांगे रोज़ रोज़ बह के
+
+M(T)M(T)P R'(K)N NNN  R'(K)NDP
+
+Sanchiya Mohobattan Nibha Ke सच्चियाँ मोहब्बतां निभा के
+
+R'(K)R'(K)R'(K)P PPDN DNDND
+
+Sataye Mainu Kyu सताये मैनु क्यूँ
+
+DDN DM'(T) R’G’
+
+Dikhaye Mainu Kyu दिखाए मैनु क्यूँ
+
+DDN DM'(T) R’G’
+
+Ainve Zuthi Mutthi Rus Ke Rusake ऐवें झूठी मुट्ठी रुस के रुसाके
+
+R’G’ P’P’M'(T)R’   G’G’R’R'(K) DNDND
+
+Dil Diya Galla दिल दियां गल्लां
+
+M(T)PGM(T) PD NDPM(T) GR
+
+Karange Naal Naal Bah Ke करांगे नाल नाल बह के
+
+M(T)M(T)P R'(K)N NNN  R'(K)NDP
+
+Ankh Naal Ankh Nu Mila Ke अंख नाल अंख नु मिला के
+
+R'(K)R'(K)R'(K)P PPDN DNDND
+
+Tenu Lakha To Chuppa Ke Rakha तेनु लाखां तों छुप्पा के रखां
+RG M(T)D M(T)D M(T)D M(T)D 
+
+Ankha Te Saja Ke Tu Ye Meri Vafa अखाँ ते सजा के तू ऐ मेरी वफ़ा
+
+M(T)D M(T)D M(T)D  NN R’NDP 
+
+Rakh Apana Bana Ke रख अपना बना के
+
+PNNNR’ NR’
+
+Main Tere Lai Aan Yara मैं तेरे लइ आं तेरे लइ आं यारा
+
+PG’G’G’P   G’G’G’R’R'(K)N
+
+Na Pavi Kade Duriya Hay ना पावीं कदे दूरियां हाय 
+
+NDPM(T)P ND N R’R'(K) NDD
+
+Main Jeena Han Tera मैं जीना हाँ तेरा…
+
+DD ND M'(T)G’R’  R’R'(K) G’~~ R’R'(K)N M(T)D R'(K) ND
+
+Main Jeena han Tera मैं जीना हाँ तेरा
+
+DD ND M'(T)G’R’ 
+
+Tu Jeena Hai M(T)era तू जीना है मेरा
+
+DD N P’M'(T)G’R’
+
+Das Laina Ki Nakhra Dikha Ke दस लैणा की नख़रा दिखा के
+
+R’G’ P’P’ M'(T)G’ G’G’R’R'(K) DNDND
+
+Dil Diya Galla दिल दियां गल्लां
+
+M(T)PM(T)G PD NDPM(T)
+
+Karange Naal Naal Bah Ke करांगे नाल नाल बह के
+
+M(T)M(T)P R'(K)N NNN R'(K)NDP
+
+Ankh Naal Ankh Nu Mila Ke अंख नाल अंख नु मिला के
+
+R'(K)R'(K)R'(K)P PPDN DNDND
+
+Dil Diya Galla दिल दियां गल्लां
+
+M(T)PM(T)GM(T) PD 

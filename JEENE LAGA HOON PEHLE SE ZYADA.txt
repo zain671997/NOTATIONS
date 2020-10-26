@@ -1,0 +1,141 @@
+JEENE LAGA HOON, PEHLE SE ZYADA
+R G M g R R G M g R
+
+PEHLE SE ZYADA, TUMPE MARNE LAGA HOON
+R G M g R R R S R S g R S N N D S N N D P
+
+MAIN MERA DIL AUR TUM HO YAHAAN
+P R P D P D N N S D P D
+
+PHIR KYUN HO PALKEIN JHUKAYE WAHAAN
+P R P D P D N N S D P D
+
+TUM SA HASEEN PEHLE DEKHA NAHIN
+P R P D P D N N S D P D
+
+TUM IS.SEY PEHLE THHE JAANE KAHAAN
+P R P D P D N N S D P D
+
+JEENE LAGA HOON PEHLE SE ZYADA
+R G M g R R G M g R
+
+PEHLE SE ZYADA TUMPE MARNE LAGA…
+R G M g R R R S R S g R S N N D S N N D P
+
+
+
+new notations
+
+Main Mera Dil Aur Tum Ho Yahan मैं मेरा दिल और तुम हो यहाँ
+
+P  RPD  PDN(K)  DPD
+
+Phir Kyu Ho Palake Zukaye Vanha फिर क्यूँ हो पलकें झुकाए वहाँ
+
+P  RPD  PDN(K)  DPD
+
+Tum Sa Hansi Pahale Dekha Nahi तुम सा हसीं पहले देखा नहीं
+
+P  RPD  PDN(K)  DPD
+
+Tum Is Se Pehle The Jaane Kanha तुम इससे पहले थे जाने कहाँ
+
+P  RPD  PDN(K)  S’N(K) DPPD
+
+Jeene Laga Hu Pehle Se Zyada जीने लगा हूँ, पहले से ज़्यादा
+
+R’P’M’   G’(K)R R’P’M’   G’(K)R
+
+Pehle Se Jyada Tum Pe Marne Laga Hun पहले से ज़्यादा, तुम पे मरने लगा हूँ
+
+R’P’M’   G’(K)R R’G’(K)   S’R’ S’G’(K) R’S’  N(K)D S’N(K)DP
+
+Middle Music 1:
+PDN(K)DPM
+
+PDN(K)DPM
+
+PDN(K)DPM   PS’ N(K)D   PDN(K)DPMP
+
+Middle Music 2:
+N(K)S’R’R’   N(K)S’R’ R’DD
+
+N(K)S’   M’M’ R’R’  N(K)S’R’ R’S’  R’N(K) S’N(K) SD   N(K)D N(K)P DP DMP
+
+RD   N(K)DPP   RMD PM SR
+
+N.(K)S  N.(K)S N.(K)S  RG(K) RG(K) RG(K)S’   DN(K)S’R’
+
+
+Rahate Ho Aake Jo Tum Paas Mere रहते हो आके जो तुम पास मेरे
+RR   SRR’R’   S’R’S’ N(K)DD
+
+Tham Jaye Pal Ye Yanhi थम जाए पल ये यहीं
+
+RR   SRR’R’   
+
+Bas Main Ye Sochu बस मैं ये सोचूं
+
+S’R’S’   N(K)DD
+
+Sochu Main Tham Jaye Pal Ye सोचूं मैं थम जाए पल ये
+
+PN(K)   DS’ N(K)D   N(K)DP
+
+Paas Mere Jab Ho Tum पास मेरे जब हो तुम
+
+PN(K)N(K)  DS’ N(K)D
+
+Sochu Main Tham Jaye Pal Ye सोचूं मैं थम जाए पल ये
+
+PN(K)   DS’ N(K)D   N(K)DP
+
+Paas Mere Jab Ho Tum पास मेरे जब हो तुम
+
+PN(K)N(K)  DS’ N(K)D
+
+Chalati Hain Sanse Pahle Se Jyada चलती है सांसें पहले से ज़्यादा
+
+R’P’M’   G’(K)R R’P’M’   G’(K)R
+
+Pehle Se Jyada Dil Thaharne Laga पहले से ज्यादा, दिल ठहरने लगा
+
+R’P’M’   G’(K)R R’G’(K)   S’R’ S’G’(K) R’S’  N(K)D S’N(K)DP
+
+Middle Music :
+PDN(K)DPM
+
+PDN(K)DPM
+
+PDN(K)DPM   PS’ N(K)D   PDN(K)DPMP
+
+Tanhaiyo Main Tujhe Dundhe Mera Dil तन्हाइयों में तुझे ढूंढे मेरा दिल
+RR   SRR’R’   S’R’S’ N(K)DD
+
+Har Pal Ye Tujhko Hi Soche Bhala Kyu हर पल ये तुझको ही, सोचे भला क्यूँ
+
+RR   SRR’R’   S’R’S’ N(K)DD
+
+Tanhai Me Dhunde Tujhe Dil तन्हाई में ढूंढे तुझे दिल
+
+PN(K)   DS’ N(K)D   N(K)DP
+
+Har Pal Tujhko Soche हर पल तुझको सोचे
+
+PN(K)N(K)  DS’ N(K)D
+
+Tanhai Me Dhunde Tujhe Dil तन्हाई में ढूंढे तुझे दिल
+
+PN(K)   DS’ N(K)D   N(K)DP
+
+Har Pal Tujhko Soche हर पल तुझको सोचे
+
+PN(K)N(K)  DS’ N(K)D
+
+Milane Lage Dil Pehle Se Jyada  मिलने लगे दिल, पहले से ज़्यादा
+
+R’P’M’   G’(K)R R’P’M’   G’(K)R
+
+Pahale Se Jyada Ishq Hone Laga पहले से ज़्यादा, इश्क़ होने लगा…
+
+R’P’M’   G’(K)R R’G’(K)   S’R’ S’G’(K) R’S’  N(K)D S’N(K)DP

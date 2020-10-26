@@ -1,0 +1,128 @@
+Starting Music:
+P.SR  MGR  G  S  P.
+
+P.P.SR  MGR  G  R
+
+Start:
+Tanhai Tanhai Tanhai तन्हाई तन्हाई तन्हाई
+
+P.SR  MGR  G  S  P.
+
+Dono Ko Paas Le Aai दोनो को पास ले आयी
+
+P.P.SR  MGR  G  R
+
+Tanhai Tanhai Tanhai तन्हाई तन्हाई तन्हाई
+
+P.SR  MGR  G  S  P.
+
+Dono Ko Paas Le Aai  दोनो को पास ले आयी
+
+P.P.SR  MGR  G  R
+
+Pyar Main Bah Gaye Do Dil प्यार में बह गए दो दिल
+
+RGM  RGM  RS  RG
+
+Mauj YE Kaise Aayi मौज ये कैसी आयी
+
+RGM RGM RS
+
+Tanhai Tanhai Tanhai तन्हाई तन्हाई तन्हाई
+
+P.SR  MGR  G  S  P.
+
+Dono Ko Paas Le Aai  दोनो को पास ले आयी
+
+P.P.SR  MGR  G  R
+
+Pyar Main Bah Gaye Do Dil प्यार में बह गए दो दिल
+
+RGM  RGM  RS  RG
+
+Mauj Ye Kaise Aayi मौज ये कैसी आयी
+
+RGM RGM RS
+
+Middle Music:
+PP  DP   MPG
+
+Aaj Hawao Ne Bansi Bajai आज हवाओ ने बंसी बजाई
+
+SGM  P  MG  M  GR GR
+
+Bin Kahe Dil KI Baat Batai बिन कहे दिल की बात बताई
+
+SRG  MGR  G   DN  RS
+
+Aaj Hawao Ne Bansi Bajai आज हवाओ ने बंसी बजाई
+
+SGM  P  MG  M  GR GR
+
+Bin Kahe Dil KI Baat Batai बिन कहे दिल की बात बताई
+
+SRG  MGR  G   DN  RS
+
+Le Dubi Mere Pagal Man Ko ले डूबी मेरे पागल मन को
+
+D.N.  SRRS  RGRSN.   SD.
+
+Tere Pyar Ki Ye Gaharai तेरे प्यार की ये गहराई
+
+SRRS  N.  D.N.  RS
+
+Tanhai Tanhai Tanhai तन्हाई तन्हाई तन्हाई
+
+P.SR  MGR  G  S  P.
+
+Dono Ko Paas Le Aai  दोनो को पास ले आयी
+
+P.P.SR  MGR  G  R
+
+Pyar Main Bah Gaye Do Dil प्यार में बह गए दो दिल
+
+RGM  RGM  RS  RG
+
+Mauj Ye Kaise Aayi मौज ये कैसी आयी
+
+RGM RGM RS
+
+Dard Ka Tere Ahasa Raha Hai दर्द का तेरे एहसास रहा है
+
+SGM  P  MG  M  GR GR
+
+Tera Ahasa Mere Pass Raha Hai तेरा एहसास मेरे पास रहा है
+
+SRG  MGR  G   DN  RS
+
+Dard Ka Tere Ahasa Raha Hai दर्द का तेरे एहसास रहा है
+
+SGM  P  MG  M  GR GR
+
+Tera Ehsaas Mere Pass Raha Hai तेरा एहसास मेरे पास रहा है
+
+SRG  MGR  G   DN  RS
+
+Ek Tujhe Bas Meri Lagan Thi एक तुझे बस मेरी लगन थी
+
+D.N.  SRRS  RGRSN.   SD.
+
+Baat Ye Der Se Samajh Main Hai Aai बात ये देर से समझ में है आयी
+
+SRRS  N.  D.N.  RS
+
+Tanhai Tanhai Tanhai तन्हाई तन्हाई तन्हाई
+
+P.SR  MGR  G  S  P.
+
+Dono Ko Paas Le Aai  दोनो को पास ले आयी
+
+P.P.SR  MGR  G  R
+
+Pyar Main Bah Gaye Do Dil प्यार में बह गए दो दिल
+
+RGM  RGM  RS  RG
+
+Mauj Ye Kaise Aayi मौज ये कैसी आयी
+
+RGM RGM RS

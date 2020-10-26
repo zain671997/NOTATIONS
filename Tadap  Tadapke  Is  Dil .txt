@@ -1,0 +1,94 @@
+Bejaan | Dil | Ko |
+R G P~N~n | n | P~n
+
+Bejaan | Dil | Ko |
+G G~g | R | N~R
+
+Bejaan | Dil | Ko | Tere |
+R G P~N~n | n | n | P~n(S)N
+
+Ishq | Ne | Zinda | Kiya
+G G | G | g~R R | R~N~R
+
+Phir | Tere | Ishq | Ne | Hi |
+R G P~N~n | n n | P~n | (S)N
+
+Is | Dil | Ko | Tabah | Kiya
+G | G | G~g | g~R | R~N~R
+
+Tadap | Tadapke | Is | Dil |
+R NR | N D P | R | R
+
+Se | Aah | Nikalti | Rahi
+G | R G R | N D G | G G
+
+Mujhko | Saza | Di | Pyaar | Ki |
+R G P | P P | G | D~P | P
+
+Aisa | Kya | Gunaah | Kiya
+P D | D | N D~P | P P
+
+To | Lut | Gaye |
+P | D | N D N’…..
+
+Haan | Lut | Gaye
+D P | D~P | PP
+
+To | Lut | Gaye | Hum
+P | D~P | PP | P
+
+Teri | Mohabbat | Mein
+D~P P | G G~g g~R | R
+
+Tadap tdadpke….
+
+interlude (aaa…aaaa…aaa)
+.P .D .N M~.N
+.P .D .N M~S
+.D .N S G
+R S N D P D N
+
+Ajab | Hai | Ishq | Yaara
+P P | D N | D N | N… D S… SRSR~N….
+
+Pal | Do | Pal | Ki | Khushiyaan
+g | M | D | P | DDD~P(D)P M(P)M G(M)G R
+
+Gam | Ke | Khazaane | Milte | Hain | Aur
+P | P | P M D~P | P M | g | g
+
+Milti | Hai | Tanhaiyaan
+S g~ | ~S | g P R R
+
+Kabhi | Aansoon | Kabhi | Aahein
+NN | R g | g P | P D
+
+Kabhi | Shikve | Kabhi | Naalein
+DD | DD D~P | PP | P P
+
+Tera | Chehra | Nazar | Aaye
+g g | gg R | N N | g R
+
+Tera | Chehra | Nazar | Aaye
+N N | RR g | g P | P D
+
+Mujhe | Din | Ke | Ujaalon | Mein
+DD | D | D~P | P P P | P~g
+
+Teri | Yaadein | Tadpayein
+g g | g R | NN g R
+
+Teri | Yaadein | Tadpayein
+N N | R g | g P P D
+
+Raaton | Ke | Andheron | Mein
+D D | D~P | P P P | P~g
+
+Tera | Chehra | Nazar | Aaye
+g g | g R | N N | R(g) R
+
+Machal Machalke Is Dil
+Se Aah Nikalti Rahi Hai
+Mujhko Saza Di Pyaar Ki Aisa Kya Gunaah Kiya
+To Lut Gaye Haan Lut Gaye
+To Lut Gaye Hum Teri Mohabbat Mein
