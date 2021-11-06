@@ -1,0 +1,15 @@
+E BASE
+Aaroh: SRG(K)PDS'
+Avroh: S'DPGG(K)RS
+BANDISH:ASTAHAI
+G(K)R-SRSD-SRG(K)..G(K)R-SRS
+G(K)R-SRSD-SRMG(K)..G(K)R-SRS
+G(K)..G(K)R-G(K)PDS-PS'DP-G(K)RS
+G(K)..G(K)R-G(K)PDS-PS'DP-GG(K)RS
+ANTRA:
+G(K)..G(K)G(K)-P..SD-S..SS-DRS
+DPG(K)..G(K)G(K)-PPSD-S..SS-DRS-DP
+S'R'G(K)'R'-S'R'S'D'-P'S'D'P'-GG(K)RS
+
+
+https://www.youtube.com/watch?v=qSAorCVMj_M&ab_channel=AnjaniKumarGupta

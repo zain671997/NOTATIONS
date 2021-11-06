@@ -1,45 +1,23 @@
-Chaha Hai Tujhko, Chahunga Hardam
-S RG G R R S SG GR RS SG R SRSn
-D S N S D S, n s d s n d n d p
-
-Mar Ke Bhi Dil Se, Ye Pyaar Na Hoga Kam
-n n R S R Sn nR SR n GR G S R S S
-p n d n p n, d n p s n s d p d
-
-Teri Yaad Jo Aati Hai, Mere Aansoon Behte Hain
-S S S GG P PMMP G3M M M SR R M M GGM R G
-d d s g g r r, p p n r s s s
-
-Apna To Milan Hogaa Pal Pal Yeh Kehte Hain
-SSSG G P P M MPG3M M S S R R M M GGM GRSRn
-d d s g g r r, p p n r s s s
-
-Kya Yeh Zindgani Hai, Bas Teri Kahani Hai
-n S S GRS SR SRn n S G R S S S
-p d s n d n d n p, p d s n d
-
-Bas Teri Kahani Hai Ye Jo Zindgani Hai
-n S SG R S SR SRn n S MG RS S S
-p d s n d r n d n p, p d s n d
-
+Chaha Hai Tujhko, Chahunga Hardam			S RG G R R S SG GR RS SG R SRSn
+							D S N S D S, n s d s n d n d p
+Mar Ke Bhi Dil Se, Ye Pyaar Na Hoga Kam			n n R S R Sn nR SR n GR G S R S S
+							p n d n p n, d n p s n s d p d
+Teri Yaad Jo Aati Hai, Mere Aansoon Behte Hain		S S S GG P PMMP G3M M M SR R M M GGM R G
+							d d s g g r r, p p n r s s s
+Apna To Milan Hogaa Pal Pal Yeh Kehte Hain		SSSG G P P M MPG3M M S S R R M M GGM GRSRn
+							d d s g g r r, p p n r s s s
+Kya Yeh Zindgani Hai, Bas Teri Kahani Hai		n S S GRS SR SRn n S G R S S S
+							p d s n d n d n p, p d s n d
+Bas Teri Kahani Hai Ye Jo Zindgani Hai			n S SG R S SR SRn n S MG RS S S
+							p d s n d r n d n p, p d s n d
 <Chaha Hai Tujhko…> Repeat
-
-Teri Woh Baatein, Woh Chaahat Ki Rasmein
-n S S R Sn nGRG G n n S R S S SS
-d p d d n p s, n d p d n d d
-
-Jhoothey The Vaade, Kya Jhoothi Thi Kasmein
-n S S n S P P M M G M P M M MM
-d p d d n p g, g r s r g r r r (g m g r g r)
-
-Jaane Tamanna Kya Ye Sach Hai, Bas Itna Keh De
-M P D P PG G MP M M M R R R GMG R S R.GRSn
-r g m g g s r g r r, n s r s n d n s n d p
-
-Toot Jayee Na Lamha, Aitbaar Ka
-n S S G R S SR SRn n SMG R S
-p d s n d n d n p, p d s n d
-
-De Koi Silaa, Mere Intezaar Ka
-n S G R S SMRSnp n S MG R S
-p d s n d r n d n p, p d s n d
+Teri Woh Baatein, Woh Chaahat Ki Rasmein		n S S R Sn nGRG G n n S R S S SS
+							d p d d n p s, n d p d n d d
+Jhoothey The Vaade, Kya Jhoothi Thi Kasmein		n S S n S P P M M G M P M M MM
+							d p d d n p g, g r s r g r r r (g m g r g r)
+Jaane Tamanna Kya Ye Sach Hai, Bas Itna Keh De		M P D P PG G MP M M M R R R GMG R S R.GRSn
+							r g m g g s r g r r, n s r s n d n s n d p
+Toot Jayee Na Lamha, Aitbaar Ka				n S S G R S SR SRn n SMG R S
+							p d s n d n d n p, p d s n d
+De Koi Silaa, Mere Intezaar Ka				n S G R S SMRSnp n S MG R S
+							p d s n d r n d n p, p d s n d

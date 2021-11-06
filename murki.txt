@@ -1,0 +1,18 @@
+1st murki
+nrs,sgr,rmg,gpm,mdp,pnd,dsn,nrs
+nrs,dsn,pnd,mdp,gpm,rmg,sgr,nrs
+2nd murki
+rns,gsr,mrg,pgm,dpm,npd,sdn,rns
+rns sdn npd dpm pgm mrg gsr rns
+3rd murki
+dns nsr srg rgm gmp mpd pdn dns
+dns pdn mpd gmp rgm srg nsr dns
+4th murki
+grs mgr pmg dpm ndp snd rsn grs
+grs rsn snd ndp dpm pmg mgr grs
+5th murki
+sns rsr grg mgm pmp dpd ndn sns
+sns ndn dpd pmp mgm grg rsr sns
+6th murki
+srs rgr gmg mpm pdp dnd nsn srs
+srs nsn dnd pdp mpm gmg rgr srs
